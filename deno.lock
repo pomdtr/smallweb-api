@@ -4,6 +4,7 @@
     "specifiers": {
       "jsr:@std/semver@^0.224.3": "jsr:@std/semver@0.224.3",
       "npm:@hono/swagger-ui": "npm:@hono/swagger-ui@0.4.0_hono@4.4.11",
+      "npm:@hono/swagger-ui@^0.4.0": "npm:@hono/swagger-ui@0.4.0_hono@4.4.11",
       "npm:@hono/zod-openapi@^0.15.1": "npm:@hono/zod-openapi@0.15.1_hono@4.4.11_zod@3.23.8",
       "npm:zod": "npm:zod@3.23.8",
       "npm:zod@^3.23.8": "npm:zod@3.23.8"
